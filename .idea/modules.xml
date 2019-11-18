@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../consumer/.idea/consumer.iml" filepath="$PROJECT_DIR$/../consumer/.idea/consumer.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/dapp.iml" filepath="$PROJECT_DIR$/.idea/dapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ecomapp/.idea/ecomapp1.iml" filepath="$PROJECT_DIR$/../ecomapp/.idea/ecomapp1.iml" />
       <module fileurl="file://$PROJECT_DIR$/../first_proj/.idea/first_proj.iml" filepath="$PROJECT_DIR$/../first_proj/.idea/first_proj.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mypractice/.idea/mypractice.iml" filepath="$PROJECT_DIR$/../mypractice/.idea/mypractice.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/sample/.idea/sample.iml" filepath="$USER_HOME$/PycharmProjects/sample/.idea/sample.iml" />
     </modules>
   </component>
 </project>

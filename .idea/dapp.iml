@@ -5,6 +5,11 @@
     <orderEntry type="jdk" jdkName="Python 3.7 (denv)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="first_proj" />
+    <orderEntry type="module" module-name="mypractice" />
+    <orderEntry type="module" module-name="consumer" />
+    <orderEntry type="module" module-name="ecomapp1" />
+    <orderEntry type="module" module-name="first_proj" />
+    <orderEntry type="module" module-name="sample" />
   </component>
   <component name="TestRunnerService">
     <option name="PROJECT_TEST_RUNNER" value="Unittests" />
