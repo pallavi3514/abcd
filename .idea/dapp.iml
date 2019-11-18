@@ -10,6 +10,7 @@
     <orderEntry type="module" module-name="ecomapp1" />
     <orderEntry type="module" module-name="first_proj" />
     <orderEntry type="module" module-name="sample" />
+    <orderEntry type="module" module-name="samplerepo" />
   </component>
   <component name="TestRunnerService">
     <option name="PROJECT_TEST_RUNNER" value="Unittests" />
