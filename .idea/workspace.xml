@@ -2,23 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be089303-9bad-4c35-a795-ed7c718f588d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../ecomapp/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ecomapp/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ecomapp/ecomapp/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ecomapp/ecomapp/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ecomapp/ecomapp/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ecomapp/ecomapp/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ecomapp/electronics/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ecomapp/electronics/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ecomapp/electronics/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ecomapp/electronics/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ecomapp/electronics/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ecomapp/electronics/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ecomapp/electronics/serializer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ecomapp/electronics/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ecomapp/electronics/url.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ecomapp/electronics/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ecomapp/manage.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../first_proj/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../first_proj/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -108,7 +91,7 @@
             <path>
               <item name="dapp" type="b2602c69:ProjectViewProjectNode" />
               <item name="dapp" type="462c0819:PsiDirectoryNode" />
-              <item name="myapp" type="462c0819:PsiDirectoryNode" />
+              <item name="dapp" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -251,10 +234,18 @@
       <option name="presentableId" value="Default" />
       <updated>1564076181859</updated>
     </task>
+    <task id="LOCAL-00001" summary="hi">
+      <created>1574081907392</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1574081907392</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -322,6 +313,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="hi" />
+    <option name="LAST_COMMIT_MESSAGE" value="hi" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/myapp/views.py">
